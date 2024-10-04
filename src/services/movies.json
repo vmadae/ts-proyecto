@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "nombreOriginal": "The Lion King",
+      "nombreEspanol": "El Rey León",
+      "categoria": "Animación",
+      "descripcion": "Un joven león llamado Simba huye tras la muerte de su padre, pero debe enfrentar su destino y regresar para reclamar su lugar como rey.",
+      "fechaEstreno": "1994-06-24"
+    },
+    {
+      "id": 2,
+      "nombreOriginal": "Beauty and the Beast",
+      "nombreEspanol": "La Bella y la Bestia",
+      "categoria": "Animación",
+      "descripcion": "Una joven inteligente llamada Bella debe aprender a amar a una bestia para salvar a su padre y romper una maldición.",
+      "fechaEstreno": "1991-11-22"
+    },
+    {
+      "id": 3,
+      "nombreOriginal": "Frozen",
+      "nombreEspanol": "Frozen: Una Aventura Congelada",
+      "categoria": "Animación",
+      "descripcion": "Anna se une a un montañero llamado Kristoff y su reno Sven para encontrar a su hermana Elsa, cuyos poderes de hielo han atrapado su reino en un invierno eterno.",
+      "fechaEstreno": "2013-11-27"
+    },
+    {
+      "id": 4,
+      "nombreOriginal": "Aladdin",
+      "nombreEspanol": "Aladdín",
+      "categoria": "Animación",
+      "descripcion": "Un joven pobre llamado Aladdín encuentra una lámpara mágica que lo lleva a una aventura con un genio que concede deseos.",
+      "fechaEstreno": "1992-11-25"
+    },
+    {
+      "id": 5,
+      "nombreOriginal": "Mulan",
+      "nombreEspanol": "Mulán",
+      "categoria": "Animación",
+      "descripcion": "Una joven se disfraza de hombre para unirse al ejército chino en lugar de su padre y salvar a su país de los invasores hunos.",
+      "fechaEstreno": "1998-06-19"
+    },
+    {
+      "id": 6,
+      "nombreOriginal": "The Little Mermaid",
+      "nombreEspanol": "La Sirenita",
+      "categoria": "Animación",
+      "descripcion": "Ariel, una joven sirena, hace un trato con la malvada bruja Úrsula para convertirse en humana y estar con el príncipe Eric.",
+      "fechaEstreno": "1989-11-17"
+    },
+    {
+      "id": 7,
+      "nombreOriginal": "Toy Story",
+      "nombreEspanol": "Toy Story",
+      "categoria": "Animación",
+      "descripcion": "Los juguetes de Andy, liderados por Woody, enfrentan desafíos cuando un nuevo juguete, Buzz Lightyear, amenaza con reemplazarlo.",
+      "fechaEstreno": "1995-11-22"
+    },
+    {
+      "id": 8,
+      "nombreOriginal": "Finding Nemo",
+      "nombreEspanol": "Buscando a Nemo",
+      "categoria": "Animación",
+      "descripcion": "Un pez payaso llamado Marlin se embarca en una aventura para encontrar a su hijo perdido, Nemo, con la ayuda de Dory, una pez olvidadiza.",
+      "fechaEstreno": "2003-05-30"
+    },
+    {
+      "id": 9,
+      "nombreOriginal": "Cinderella",
+      "nombreEspanol": "La Cenicienta",
+      "categoria": "Animación",
+      "descripcion": "Con la ayuda de su hada madrina, una joven llamada Cenicienta transforma su vida y asiste al baile real donde se enamora del príncipe.",
+      "fechaEstreno": "1950-02-15"
+    },
+    {
+      "id": 10,
+      "nombreOriginal": "Moana",
+      "nombreEspanol": "Moana: Un Mar de Aventuras",
+      "categoria": "Animación",
+      "descripcion": "Una joven aventurera llamada Moana se embarca en un viaje para salvar su isla con la ayuda del semidiós Maui.",
+      "fechaEstreno": "2016-11-23"
+    },
+    {
+      "id": 11,
+      "nombreOriginal": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "nombreEspanol": "Piratas del Caribe: La Maldición del Perla Negra",
+      "categoria": "Aventura",
+      "descripcion": "El capitán Jack Sparrow busca recuperar su barco, el Perla Negra, mientras enfrenta a piratas malditos que no pueden morir.",
+      "fechaEstreno": "2003-07-09"
+    },
+    {
+      "id": 12,
+      "nombreOriginal": "The Parent Trap",
+      "nombreEspanol": "Juego de Gemelas",
+      "categoria": "Comedia",
+      "descripcion": "Dos hermanas gemelas que fueron separadas al nacer se reencuentran en un campamento y conspiran para reunir a sus padres.",
+      "fechaEstreno": "1998-07-29"
+    },
+    {
+      "id": 13,
+      "nombreOriginal": "Maleficent",
+      "nombreEspanol": "Maléfica",
+      "categoria": "Fantasía",
+      "descripcion": "La historia de la villana Maléfica, explorando sus orígenes y cómo se convirtió en la protectora de la princesa Aurora.",
+      "fechaEstreno": "2014-05-30"
+    },
+    {
+      "id": 14,
+      "nombreOriginal": "Remember the Titans",
+      "nombreEspanol": "Duelo de Titanes",
+      "categoria": "Deporte",
+      "descripcion": "Un equipo de fútbol americano de una escuela secundaria supera las tensiones raciales y se une bajo la dirección de su entrenador afroamericano.",
+      "fechaEstreno": "2000-09-29"
+    },
+    {
+      "id": 15,
+      "nombreOriginal": "The Nightmare Before Christmas",
+      "nombreEspanol": "El Extraño Mundo de Jack",
+      "categoria": "Musical",
+      "descripcion": "Jack Skellington, el rey de Halloween Town, descubre la Navidad y decide mejorarla, aunque con consecuencias imprevistas.",
+      "fechaEstreno": "1993-10-13"
+    }
+  ]

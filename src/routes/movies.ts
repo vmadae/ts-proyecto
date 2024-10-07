@@ -1,5 +1,6 @@
 import express from 'express'
 import * as moviesServices from '../services/moviesServices'
+import toNewMovieEntry from '../utils/validationRequestUtils'
 
 const router = express.Router()
 
@@ -15,8 +16,19 @@ router.get('/:id', (req , res) => {
 })
 
 //Añadir pelicula
-router.post('/', (_req, res) => {
-    res.send('Pelicula guardada')
+router.post('/', (req, res) => {
+
+    try {
+        const newMovieEntry = toNewMovieEntry(req.body)
+
+        const addedMovieEntry = moviesServices.addMovie(newMovieEntry)
+
+        res.json(addedMovieEntry)
+        
+    } catch (e) {
+        res.status(400).send('Error')
+    }
+    
 })
 
 export default router

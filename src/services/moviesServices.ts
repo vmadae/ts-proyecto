@@ -1,4 +1,4 @@
-import { MovieEntry } from '../interfaces/moviesInterfaces'
+import { MovieEntry, NewMovieEntry } from '../interfaces/moviesInterfaces'
 import moviesData from './movies.json'
 
 const movies: Array<MovieEntry> = moviesData as Array<MovieEntry>
@@ -10,4 +10,13 @@ export const findById = (id: number) : MovieEntry | undefined => {
     return entry
 }
 
-export const addEntry = null
+export const addMovie = (newMovieEntry: NewMovieEntry): MovieEntry => {
+    const newMovie = {
+        id: Math.max(...movies.map(d => d.id)) + 1,
+        ...newMovieEntry
+    }
+
+    movies.push(newMovie)
+
+    return(newMovie)
+}

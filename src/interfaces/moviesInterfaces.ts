@@ -1,10 +1,12 @@
-import movieCategoria from '../../types';
+import { Categoria } from "../enums/enums"
 
 export interface MovieEntry{
     id: number
     nombreOriginal: string
     nombreEspanol: string
-    categoria: movieCategoria.Categoria
+    categoria: Categoria
     descripcion: string
     fechaEstreno: string
 }
+
+export type NewMovieEntry = Omit<MovieEntry, 'id'>

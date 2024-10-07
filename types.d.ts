@@ -1,1 +1,0 @@
-export type Categoria = 'Animación' | 'Aventura' | 'Comedia' | 'Fantasía' | 'Deporte' | 'Drama' | 'Musical'
